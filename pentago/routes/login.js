@@ -12,9 +12,9 @@ router.get('/', function(req, res, next) {
 //        //res.redirect('findPwd');
 // })
 
-router.get('/dev', function(req, res, next) {
-  console.log("나 봐라 이거 동작한다.")
-});
+// router.get('/dev', function(req, res, next) {
+//   console.log("나 봐라 이거 동작한다.")
+// });
 
 
   module.exports = router;
